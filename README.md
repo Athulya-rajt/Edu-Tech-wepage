@@ -16,3 +16,6 @@ A professional educational technology landing page featuring a green and white b
 
 ## 🔗 Live Link
 [https://edutecheduzone.netlify.app/]
+
+## 🔗 Output Link
+[https://www.awesomescreenshot.com/video/50050282?key=95d3a6e24c934e3a176682910de4d3e8]
